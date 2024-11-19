@@ -1,577 +1,109 @@
 Location,Household Type,TimeFrame,DataFormat,Data,Fips
-Financial District (CD1),All Households,2005,Dollars,127748.91668,101
-Financial District (CD1),Families,2005,Dollars,184225.09951,101
-Financial District (CD1),Families without Children,2005,Dollars,171895.32745,101
-Financial District (CD1),Families with Children,2005,Dollars,240493.77057,101
-Financial District (CD1),All Households,2006,Dollars,125650.55692,101
-Financial District (CD1),Families,2006,Dollars,186613.01631,101
-Financial District (CD1),Families with Children,2006,Dollars,207842.39913,101
-Financial District (CD1),Families without Children,2006,Dollars,174759.31513,101
-Financial District (CD1),All Households,2007,Dollars,135204.62771,101
-Financial District (CD1),Families with Children,2007,Dollars,167170.67977,101
-Financial District (CD1),Families,2007,Dollars,181608.08317,101
-Financial District (CD1),Families without Children,2007,Dollars,201005.64719,101
-Financial District (CD1),All Households,2008,Dollars,131052.98427,101
-Financial District (CD1),Families,2008,Dollars,218492.71756,101
-Financial District (CD1),Families with Children,2008,Dollars,238083.96842,101
-Financial District (CD1),Families without Children,2008,Dollars,212378.43235,101
-Financial District (CD1),Families,2009,Dollars,191669.06016,101
 Financial District (CD1),All Households,2009,Dollars,125639.99401,101
-Financial District (CD1),Families with Children,2009,Dollars,192597.2217,101
-Financial District (CD1),Families without Children,2009,Dollars,189892.96382,101
 Financial District (CD1),All Households,2010,Dollars,123927.56932,101
-Financial District (CD1),Families,2010,Dollars,196197.51525,101
-Financial District (CD1),Families with Children,2010,Dollars,276547.34598,101
 Financial District (CD1),All Households,2011,Dollars,141439.82835,101
-Financial District (CD1),Families without Children,2010,Dollars,165137.65167,101
-Financial District (CD1),Families,2011,Dollars,221966.58026,101
-Financial District (CD1),Families with Children,2011,Dollars,248555.13458,101
-Financial District (CD1),Families without Children,2011,Dollars,198267.80403,101
 Financial District (CD1),All Households,2012,Dollars,119049.11881,101
-Financial District (CD1),Families,2012,Dollars,178616.49581,101
-Financial District (CD1),Families without Children,2012,Dollars,168096.09669,101
-Financial District (CD1),Families with Children,2012,Dollars,236487.37022,101
 Financial District (CD1),All Households,2013,Dollars,142617.11397,101
-Financial District (CD1),Families,2013,Dollars,205662.45739,101
-Financial District (CD1),Families with Children,2013,Dollars,228565.68856,101
-Financial District (CD1),Families without Children,2013,Dollars,191437.27917,101
 Financial District (CD1),All Households,2014,Dollars,135003.257,101
-Financial District (CD1),Families with Children,2014,Dollars,236137.19702,101
-Financial District (CD1),Families,2014,Dollars,187710.57734,101
-Financial District (CD1),Families without Children,2014,Dollars,178205.64714,101
 Financial District (CD1),All Households,2015,Dollars,137034.34957,101
-Financial District (CD1),Families,2015,Dollars,224790.98908,101
-Financial District (CD1),Families with Children,2015,Dollars,280458.66947,101
-Financial District (CD1),Families without Children,2015,Dollars,175673.70138,101
-Financial District (CD1),Families,2016,Dollars,250479.47011,101
 Financial District (CD1),All Households,2016,Dollars,152286.35024,101
-Financial District (CD1),Families with Children,2016,Dollars,251632.63328,101
-Financial District (CD1),Families without Children,2016,Dollars,245837.96062,101
-Financial District (CD1),Families,2017,Dollars,203926.30047,101
 Financial District (CD1),All Households,2017,Dollars,157709.94352,101
 Financial District (CD1),All Households,2018,Dollars,158255.79521,101
-Financial District (CD1),Families without Children,2017,Dollars,186811.79218,101
-Financial District (CD1),Families with Children,2017,Dollars,255365.61956,101
-Financial District (CD1),Families without Children,2019,Dollars,214966.13546,101
-Financial District (CD1),Families with Children,2019,Dollars,262708.48242,101
-Financial District (CD1),Families,2019,Dollars,241920.96877,101
 Financial District (CD1),All Households,2019,Dollars,170331.092,101
-Financial District (CD1),Families without Children,2018,Dollars,211469.18884,101
-Financial District (CD1),Families with Children,2018,Dollars,267050.77932,101
-Financial District (CD1),Families,2018,Dollars,267050.77932,101
 Financial District (CD1),All Households,2021,Dollars,57565.11553,101
-Financial District (CD1),Families,2021,Dollars,87681.36764,101
-Financial District (CD1),Families without Children,2021,Dollars,80000.66124,101
-Financial District (CD1),Families with Children,2021,Dollars,100961.3692,101
-Greenwich Village and Soho (CD2),Families with Children,2021,Dollars,149039.6308,102
-Greenwich Village and Soho (CD2),Families without Children,2021,Dollars,118097.3388,102
-Greenwich Village and Soho (CD2),Families,2021,Dollars,129435.6324,102
 Greenwich Village and Soho (CD2),All Households,2021,Dollars,84977.88447,102
-Greenwich Village and Soho (CD2),Families,2018,Dollars,267050.77932,102
-Greenwich Village and Soho (CD2),Families with Children,2018,Dollars,267050.77932,102
-Greenwich Village and Soho (CD2),Families without Children,2018,Dollars,211469.18884,102
 Greenwich Village and Soho (CD2),All Households,2019,Dollars,170331.092,102
-Greenwich Village and Soho (CD2),Families,2019,Dollars,241920.96877,102
-Greenwich Village and Soho (CD2),Families with Children,2019,Dollars,262708.48242,102
-Greenwich Village and Soho (CD2),Families without Children,2019,Dollars,214966.13546,102
-Greenwich Village and Soho (CD2),Families with Children,2017,Dollars,255365.61956,102
-Greenwich Village and Soho (CD2),Families without Children,2017,Dollars,186811.79218,102
 Greenwich Village and Soho (CD2),All Households,2018,Dollars,158255.79521,102
 Greenwich Village and Soho (CD2),All Households,2017,Dollars,157709.94352,102
-Greenwich Village and Soho (CD2),Families,2017,Dollars,203926.30047,102
-Greenwich Village and Soho (CD2),Families without Children,2016,Dollars,245837.96062,102
-Greenwich Village and Soho (CD2),Families with Children,2016,Dollars,251632.63328,102
 Greenwich Village and Soho (CD2),All Households,2016,Dollars,152286.35024,102
-Greenwich Village and Soho (CD2),Families,2016,Dollars,250479.47011,102
-Greenwich Village and Soho (CD2),Families without Children,2015,Dollars,175673.70138,102
-Greenwich Village and Soho (CD2),Families with Children,2015,Dollars,280458.66947,102
-Greenwich Village and Soho (CD2),Families,2015,Dollars,224790.98908,102
 Greenwich Village and Soho (CD2),All Households,2015,Dollars,137034.34957,102
-Greenwich Village and Soho (CD2),Families without Children,2014,Dollars,178205.64714,102
-Greenwich Village and Soho (CD2),Families,2014,Dollars,187710.57734,102
-Greenwich Village and Soho (CD2),Families with Children,2014,Dollars,236137.19702,102
 Greenwich Village and Soho (CD2),All Households,2014,Dollars,135003.257,102
-Greenwich Village and Soho (CD2),Families without Children,2013,Dollars,191437.27917,102
-Greenwich Village and Soho (CD2),Families with Children,2013,Dollars,228565.68856,102
-Greenwich Village and Soho (CD2),Families,2013,Dollars,205662.45739,102
 Greenwich Village and Soho (CD2),All Households,2013,Dollars,142617.11397,102
-Greenwich Village and Soho (CD2),Families with Children,2012,Dollars,236487.37022,102
-Greenwich Village and Soho (CD2),Families without Children,2012,Dollars,168096.09669,102
-Greenwich Village and Soho (CD2),Families,2012,Dollars,178616.49581,102
 Greenwich Village and Soho (CD2),All Households,2012,Dollars,119049.11881,102
-Greenwich Village and Soho (CD2),Families without Children,2011,Dollars,198267.80403,102
-Greenwich Village and Soho (CD2),Families with Children,2011,Dollars,248555.13458,102
-Greenwich Village and Soho (CD2),Families,2011,Dollars,221966.58026,102
-Greenwich Village and Soho (CD2),Families without Children,2010,Dollars,165137.65167,102
 Greenwich Village and Soho (CD2),All Households,2011,Dollars,141439.82835,102
-Greenwich Village and Soho (CD2),Families with Children,2010,Dollars,276547.34598,102
-Greenwich Village and Soho (CD2),Families,2010,Dollars,196197.51525,102
 Greenwich Village and Soho (CD2),All Households,2010,Dollars,123927.56932,102
-Greenwich Village and Soho (CD2),Families without Children,2009,Dollars,189892.96382,102
-Greenwich Village and Soho (CD2),Families with Children,2009,Dollars,192597.2217,102
 Greenwich Village and Soho (CD2),All Households,2009,Dollars,125639.99401,102
-Greenwich Village and Soho (CD2),Families,2009,Dollars,191669.06016,102
-Greenwich Village and Soho (CD2),Families without Children,2008,Dollars,212378.43235,102
-Greenwich Village and Soho (CD2),Families with Children,2008,Dollars,238083.96842,102
-Greenwich Village and Soho (CD2),Families,2008,Dollars,218492.71756,102
-Greenwich Village and Soho (CD2),All Households,2008,Dollars,131052.98427,102
-Greenwich Village and Soho (CD2),Families without Children,2007,Dollars,201005.64719,102
-Greenwich Village and Soho (CD2),Families,2007,Dollars,181608.08317,102
-Greenwich Village and Soho (CD2),Families with Children,2007,Dollars,167170.67977,102
-Greenwich Village and Soho (CD2),All Households,2007,Dollars,135204.62771,102
-Greenwich Village and Soho (CD2),Families without Children,2006,Dollars,174759.31513,102
-Greenwich Village and Soho (CD2),Families with Children,2006,Dollars,207842.39913,102
-Greenwich Village and Soho (CD2),Families,2006,Dollars,186613.01631,102
-Greenwich Village and Soho (CD2),All Households,2006,Dollars,125650.55692,102
-Greenwich Village and Soho (CD2),Families with Children,2005,Dollars,240493.77057,102
-Greenwich Village and Soho (CD2),Families without Children,2005,Dollars,171895.32745,102
-Greenwich Village and Soho (CD2),Families,2005,Dollars,184225.09951,102
-Greenwich Village and Soho (CD2),All Households,2005,Dollars,127748.91668,102
-Lower East Side and Chinatown (CD3),All Households,2005,Dollars,44050.21327,103
-Lower East Side and Chinatown (CD3),Families,2005,Dollars,44046.09052,103
-Lower East Side and Chinatown (CD3),Families without Children,2005,Dollars,46479.88748,103
-Lower East Side and Chinatown (CD3),Families with Children,2005,Dollars,40240.79194,103
-Lower East Side and Chinatown (CD3),All Households,2006,Dollars,48870.35975,103
-Lower East Side and Chinatown (CD3),Families,2006,Dollars,47184.35287,103
-Lower East Side and Chinatown (CD3),Families with Children,2006,Dollars,40993.93954,103
-Lower East Side and Chinatown (CD3),Families without Children,2006,Dollars,51543.07137,103
-Lower East Side and Chinatown (CD3),All Households,2007,Dollars,41265.54822,103
-Lower East Side and Chinatown (CD3),Families with Children,2007,Dollars,34641.26723,103
-Lower East Side and Chinatown (CD3),Families,2007,Dollars,40993.77624,103
-Lower East Side and Chinatown (CD3),Families without Children,2007,Dollars,47100.27366,103
-Lower East Side and Chinatown (CD3),All Households,2008,Dollars,45296.78692,103
-Lower East Side and Chinatown (CD3),Families,2008,Dollars,45015.37112,103
-Lower East Side and Chinatown (CD3),Families with Children,2008,Dollars,43154.55561,103
-Lower East Side and Chinatown (CD3),Families without Children,2008,Dollars,46054.25413,103
-Lower East Side and Chinatown (CD3),Families,2009,Dollars,42979.3099,103
 Lower East Side and Chinatown (CD3),All Households,2009,Dollars,50918.05325,103
-Lower East Side and Chinatown (CD3),Families with Children,2009,Dollars,38902.55783,103
-Lower East Side and Chinatown (CD3),Families without Children,2009,Dollars,50918.05325,103
 Lower East Side and Chinatown (CD3),All Households,2010,Dollars,51350.59262,103
-Lower East Side and Chinatown (CD3),Families,2010,Dollars,53032.58727,103
-Lower East Side and Chinatown (CD3),Families with Children,2010,Dollars,49870.049,103
 Lower East Side and Chinatown (CD3),All Households,2011,Dollars,46210.48969,103
-Lower East Side and Chinatown (CD3),Families without Children,2010,Dollars,55000.98216,103
-Lower East Side and Chinatown (CD3),Families,2011,Dollars,44111.30014,103
-Lower East Side and Chinatown (CD3),Families with Children,2011,Dollars,43238.11281,103
-Lower East Side and Chinatown (CD3),Families without Children,2011,Dollars,44676.51195,103
 Lower East Side and Chinatown (CD3),All Households,2012,Dollars,47245.16714,103
-Lower East Side and Chinatown (CD3),Families,2012,Dollars,39092.46537,103
-Lower East Side and Chinatown (CD3),Families without Children,2012,Dollars,35930.90664,103
-Lower East Side and Chinatown (CD3),Families with Children,2012,Dollars,43012.01128,103
 Lower East Side and Chinatown (CD3),All Households,2013,Dollars,45675.58024,103
-Lower East Side and Chinatown (CD3),Families,2013,Dollars,41159.57838,103
-Lower East Side and Chinatown (CD3),Families with Children,2013,Dollars,33014.15871,103
-Lower East Side and Chinatown (CD3),Families without Children,2013,Dollars,44989.30274,103
 Lower East Side and Chinatown (CD3),All Households,2014,Dollars,46464.30426,103
-Lower East Side and Chinatown (CD3),Families with Children,2014,Dollars,54464.08125,103
-Lower East Side and Chinatown (CD3),Families,2014,Dollars,47889.70682,103
-Lower East Side and Chinatown (CD3),Families without Children,2014,Dollars,44911.97461,103
 Lower East Side and Chinatown (CD3),All Households,2015,Dollars,47417.70816,103
-Lower East Side and Chinatown (CD3),Families,2015,Dollars,38463.22377,103
-Lower East Side and Chinatown (CD3),Families with Children,2015,Dollars,37929.23046,103
-Lower East Side and Chinatown (CD3),Families without Children,2015,Dollars,38531.65568,103
-Lower East Side and Chinatown (CD3),Families,2016,Dollars,47916.7597,103
 Lower East Side and Chinatown (CD3),All Households,2016,Dollars,45734.7397,103
-Lower East Side and Chinatown (CD3),Families with Children,2016,Dollars,50508.32466,103
-Lower East Side and Chinatown (CD3),Families without Children,2016,Dollars,47047.72529,103
-Lower East Side and Chinatown (CD3),Families,2017,Dollars,41040.20335,103
 Lower East Side and Chinatown (CD3),All Households,2017,Dollars,43089.98195,103
 Lower East Side and Chinatown (CD3),All Households,2018,Dollars,51675.1873,103
-Lower East Side and Chinatown (CD3),Families without Children,2017,Dollars,42946.29062,103
-Lower East Side and Chinatown (CD3),Families with Children,2017,Dollars,38758.55919,103
-Lower East Side and Chinatown (CD3),Families without Children,2019,Dollars,47479.63953,103
-Lower East Side and Chinatown (CD3),Families with Children,2019,Dollars,40467.45276,103
-Lower East Side and Chinatown (CD3),Families,2019,Dollars,44555.1804,103
 Lower East Side and Chinatown (CD3),All Households,2019,Dollars,43401.36936,103
-Lower East Side and Chinatown (CD3),Families without Children,2018,Dollars,40962.22109,103
-Lower East Side and Chinatown (CD3),Families with Children,2018,Dollars,42600.83812,103
-Lower East Side and Chinatown (CD3),Families,2018,Dollars,41127.79191,103
 Lower East Side and Chinatown (CD3),All Households,2021,Dollars,49685,103
-Lower East Side and Chinatown (CD3),Families,2021,Dollars,51915,103
-Lower East Side and Chinatown (CD3),Families without Children,2021,Dollars,55013,103
-Lower East Side and Chinatown (CD3),Families with Children,2021,Dollars,48482,103
-Chelsea-Village,Families without Children,2021,Dollars,115857.5539,104
-Chelsea-Village,Families,2021,Dollars,115601.6374,104
-Chelsea-Village,Families with Children,2021,Dollars,100782.4697,104
 Chelsea-Village,All Households,2021,Dollars,61873.15741,104
-Chelsea-Village,Families,2018,Dollars,186425.26693,104
-Chelsea-Village,Families with Children,2018,Dollars,205166.81566,104
-Chelsea-Village,Families without Children,2018,Dollars,183541.13005,104
 Chelsea-Village,All Households,2019,Dollars,126360.17293,104
-Chelsea-Village,Families,2019,Dollars,195552.05627,104
-Chelsea-Village,Families with Children,2019,Dollars,163882.14997,104
-Chelsea-Village,Families without Children,2019,Dollars,200435.262,104
-Chelsea-Village,Families with Children,2017,Dollars,186378.54105,104
-Chelsea-Village,Families without Children,2017,Dollars,154784.95409,104
 Chelsea-Village,All Households,2018,Dollars,107973.5392,104
 Chelsea-Village,All Households,2017,Dollars,111013.5269,104
-Chelsea-Village,Families,2017,Dollars,162225.33472,104
-Chelsea-Village,Families without Children,2016,Dollars,189854.60816,104
-Chelsea-Village,Families with Children,2016,Dollars,182918.981,104
 Chelsea-Village,All Households,2016,Dollars,112708.10339,104
-Chelsea-Village,Families,2016,Dollars,189682.57708,104
-Chelsea-Village,Families without Children,2015,Dollars,180969.8829,104
-Chelsea-Village,Families with Children,2015,Dollars,176276.12661,104
-Chelsea-Village,Families,2015,Dollars,179579.92973,104
 Chelsea-Village,All Households,2015,Dollars,114736.76352,104
-Chelsea-Village,Families without Children,2014,Dollars,169407.24035,104
-Chelsea-Village,Families,2014,Dollars,158092.75655,104
-Chelsea-Village,Families with Children,2014,Dollars,151987.90006,104
 Chelsea-Village,All Households,2014,Dollars,110708.51164,104
-Chelsea-Village,Families without Children,2013,Dollars,161889.78922,104
-Chelsea-Village,Families with Children,2013,Dollars,180955.3293,104
-Chelsea-Village,Families,2013,Dollars,173336.85239,104
 Chelsea-Village,All Households,2013,Dollars,114533.22745,104
-Chelsea-Village,Families with Children,2012,Dollars,168068.32312,104
-Chelsea-Village,Families without Children,2012,Dollars,144348.53203,104
-Chelsea-Village,Families,2012,Dollars,152400.55459,104
 Chelsea-Village,All Households,2012,Dollars,99841.37658,104
-Chelsea-Village,Families without Children,2011,Dollars,147154.48545,104
-Chelsea-Village,Families with Children,2011,Dollars,141127.13288,104
-Chelsea-Village,Families,2011,Dollars,146983.38793,104
-Chelsea-Village,Families without Children,2010,Dollars,129181.07207,104
 Chelsea-Village,All Households,2011,Dollars,97973.97884,104
-Chelsea-Village,Families with Children,2010,Dollars,126262.45943,104
-Chelsea-Village,Families,2010,Dollars,128825.49889,104
 Chelsea-Village,All Households,2010,Dollars,94469.6054,104
-Chelsea-Village,Families without Children,2009,Dollars,138863.8274,104
-Chelsea-Village,Families with Children,2009,Dollars,217964.91328,104
 Chelsea-Village,All Households,2009,Dollars,100921.5218,104
-Chelsea-Village,Families,2009,Dollars,154396.95631,104
-Chelsea-Village,Families without Children,2008,Dollars,151764.93947,104
-Chelsea-Village,Families with Children,2008,Dollars,104797.01376,104
-Chelsea-Village,Families,2008,Dollars,140974.44099,104
-Chelsea-Village,All Households,2008,Dollars,98350.48434,104
-Chelsea-Village,Families without Children,2007,Dollars,162138.39009,104
-Chelsea-Village,Families with Children,2007,Dollars,141947.40644,104
-Chelsea-Village,All Households,2007,Dollars,102253.24123,104
-Chelsea-Village,Families,2007,Dollars,155270.67353,104
-Chelsea-Village,Families without Children,2006,Dollars,150840.00304,104
-Chelsea-Village,Families with Children,2006,Dollars,95274.61988,104
-Chelsea-Village,Families,2006,Dollars,134826.24874,104
-Chelsea-Village,All Households,2006,Dollars,96297.08439,104
-Chelsea-Village,Families without Children,2005,Dollars,122135.10495,104
-Chelsea-Village,Families,2005,Dollars,133075.51013,104
-Chelsea-Village,Families with Children,2005,Dollars,175787.20378,104
-Chelsea-Village,All Households,2005,Dollars,97000.0703,104
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2021,Dollars,199839,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2021,Dollars,200308,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2021,Dollars,201520,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2021,Dollars,117596,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2018,Dollars,262168.0424,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2018,Dollars,240328.71702,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2018,Dollars,262170.1788,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2019,Dollars,162354.24355,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2019,Dollars,230620.34589,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2019,Dollars,260161.27116,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2019,Dollars,228884.37519,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2017,Dollars,272142.67094,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2017,Dollars,185442.37026,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2018,Dollars,144097.88772,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2017,Dollars,122336.83915,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2017,Dollars,207483.74946,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2016,Dollars,208231.96686,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2016,Dollars,240801.3346,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2016,Dollars,122531.63292,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2016,Dollars,210209.76932,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2015,Dollars,191712.57177,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2015,Dollars,280458.66947,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2015,Dollars,213249.55392,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2015,Dollars,119870.279,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2014,Dollars,185795.43837,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2014,Dollars,193468.35,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2014,Dollars,226517.69546,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2014,Dollars,118643.1402,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2013,Dollars,164066.98467,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2013,Dollars,231198.12613,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2013,Dollars,172910.0629,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2013,Dollars,123003.00713,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2012,Dollars,164240.19856,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2012,Dollars,169649.10248,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2012,Dollars,168292.82619,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2012,Dollars,106962.98435,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2011,Dollars,170295.12978,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2011,Dollars,264102.58906,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2011,Dollars,197612.91353,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2010,Dollars,171683.59619,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2011,Dollars,119824.90188,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2010,Dollars,182793.74119,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2010,Dollars,174139.84234,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2010,Dollars,110579.61904,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2009,Dollars,183194.64911,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2009,Dollars,171862.93226,106
 Stuyvesant Town and Turtle Bay (CD6),All Households,2009,Dollars,121822.43599,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2009,Dollars,182189.96361,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2008,Dollars,188618.01256,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2008,Dollars,212809.85393,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2008,Dollars,194790.56448,106
-Stuyvesant Town and Turtle Bay (CD6),All Households,2008,Dollars,133682.42444,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2007,Dollars,172840.53879,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2007,Dollars,150086.39762,106
-Stuyvesant Town and Turtle Bay (CD6),All Households,2007,Dollars,124841.22797,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2007,Dollars,166459.69336,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2006,Dollars,177290.31211,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2006,Dollars,177397.59142,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2006,Dollars,177326.07188,106
-Stuyvesant Town and Turtle Bay (CD6),All Households,2006,Dollars,118820.44106,106
-Stuyvesant Town and Turtle Bay (CD6),Families without Children,2005,Dollars,195041.82218,106
-Stuyvesant Town and Turtle Bay (CD6),Families,2005,Dollars,194127.94585,106
-Stuyvesant Town and Turtle Bay (CD6),Families with Children,2005,Dollars,191615.81664,106
-Stuyvesant Town and Turtle Bay (CD6),All Households,2005,Dollars,118368.28537,106
-Upper West Side,All Households,2005,Dollars,115581.30614,107
-Upper West Side,Families with Children,2005,Dollars,274850.02351,107
-Upper West Side,Families,2005,Dollars,215107.24815,107
-Upper West Side,Families without Children,2005,Dollars,183495.37269,107
-Upper West Side,All Households,2006,Dollars,120037.59764,107
-Upper West Side,Families,2006,Dollars,223159.50014,107
-Upper West Side,Families with Children,2006,Dollars,264887.17716,107
-Upper West Side,Families without Children,2006,Dollars,166176.97059,107
-Upper West Side,All Households,2007,Dollars,111811.62918,107
-Upper West Side,Families with Children,2007,Dollars,248192.21811,107
-Upper West Side,Families,2007,Dollars,206625.27348,107
-Upper West Side,Families without Children,2007,Dollars,170677.95512,107
-Upper West Side,All Households,2008,Dollars,127698.30953,107
-Upper West Side,Families,2008,Dollars,197186.93782,107
-Upper West Side,Families with Children,2008,Dollars,235608.25317,107
-Upper West Side,Families without Children,2008,Dollars,161029.34607,107
 Upper West Side,All Households,2009,Dollars,130542.46426,107
-Upper West Side,Families,2009,Dollars,223275.92272,107
-Upper West Side,Families with Children,2009,Dollars,248565.85608,107
-Upper West Side,Families without Children,2009,Dollars,198583.36991,107
 Upper West Side,All Households,2010,Dollars,109221.64501,107
-Upper West Side,Families,2010,Dollars,171325.59589,107
-Upper West Side,Families with Children,2010,Dollars,212700.72244,107
 Upper West Side,All Households,2011,Dollars,108747.22257,107
-Upper West Side,Families without Children,2010,Dollars,141775.40138,107
-Upper West Side,Families,2011,Dollars,166828.34007,107
-Upper West Side,Families with Children,2011,Dollars,213725.5798,107
-Upper West Side,Families without Children,2011,Dollars,140100.54777,107
 Upper West Side,All Households,2012,Dollars,106254.75816,107
-Upper West Side,Families,2012,Dollars,175447.99369,107
-Upper West Side,Families without Children,2012,Dollars,153333.28385,107
-Upper West Side,Families with Children,2012,Dollars,204989.82063,107
 Upper West Side,All Households,2013,Dollars,112983.12802,107
-Upper West Side,Families,2013,Dollars,206164.36183,107
-Upper West Side,Families with Children,2013,Dollars,217251.78372,107
-Upper West Side,Families without Children,2013,Dollars,188857.19444,107
 Upper West Side,All Households,2014,Dollars,119267.66646,107
-Upper West Side,Families with Children,2014,Dollars,278137.71109,107
-Upper West Side,Families,2014,Dollars,193549.2239,107
-Upper West Side,Families without Children,2014,Dollars,156632.53329,107
 Upper West Side,All Households,2015,Dollars,113349.05402,107
-Upper West Side,Families,2015,Dollars,178543.35449,107
-Upper West Side,Families with Children,2015,Dollars,241959.547,107
-Upper West Side,Families without Children,2015,Dollars,153913.47414,107
-Upper West Side,Families,2016,Dollars,205256.38414,107
 Upper West Side,All Households,2016,Dollars,123496.11683,107
-Upper West Side,Families with Children,2016,Dollars,257509.4369,107
-Upper West Side,Families without Children,2016,Dollars,172857.9376,107
-Upper West Side,Families,2017,Dollars,200845.64543,107
 Upper West Side,All Households,2017,Dollars,134867.37629,107
 Upper West Side,All Households,2018,Dollars,130130.11963,107
-Upper West Side,Families without Children,2017,Dollars,181027.12757,107
-Upper West Side,Families with Children,2017,Dollars,267363.84564,107
-Upper West Side,Families without Children,2019,Dollars,248138.72826,107
-Upper West Side,Families with Children,2019,Dollars,262708.48242,107
-Upper West Side,Families,2019,Dollars,254769.46383,107
 Upper West Side,All Households,2019,Dollars,143685.20263,107
-Upper West Side,Families without Children,2018,Dollars,225288.47729,107
-Upper West Side,Families with Children,2018,Dollars,267050.77932,107
-Upper West Side,Families,2018,Dollars,242258.95234,107
 Upper West Side,All Households,2021,Dollars,113828,107
-Upper West Side,Families with Children,2021,Dollars,250001,107
-Upper West Side,Families,2021,Dollars,224115,107
-Upper West Side,Families without Children,2021,Dollars,188806,107
-Upper East Side (CD8),Families without Children,2021,Dollars,164161,108
-Upper East Side (CD8),Families,2021,Dollars,194738,108
-Upper East Side (CD8),Families with Children,2021,Dollars,250001,108
 Upper East Side (CD8),All Households,2021,Dollars,130527,108
-Upper East Side (CD8),Families,2018,Dollars,227964.3154,108
-Upper East Side (CD8),Families with Children,2018,Dollars,267050.77932,108
-Upper East Side (CD8),Families without Children,2018,Dollars,185651.89097,108
 Upper East Side (CD8),All Households,2019,Dollars,141088.60238,108
-Upper East Side (CD8),Families,2019,Dollars,237402.40095,108
-Upper East Side (CD8),Families with Children,2019,Dollars,262708.48242,108
-Upper East Side (CD8),Families without Children,2019,Dollars,189011.69205,108
-Upper East Side (CD8),Families with Children,2017,Dollars,220978.76023,108
-Upper East Side (CD8),Families without Children,2017,Dollars,244101.09012,108
 Upper East Side (CD8),All Households,2018,Dollars,129997.66297,108
 Upper East Side (CD8),All Households,2017,Dollars,142981.58217,108
-Upper East Side (CD8),Families,2017,Dollars,227539.57574,108
-Upper East Side (CD8),Families without Children,2016,Dollars,219991.12348,108
-Upper East Side (CD8),Families with Children,2016,Dollars,251188.68211,108
 Upper East Side (CD8),All Households,2016,Dollars,129823.53089,108
-Upper East Side (CD8),Families,2016,Dollars,224395.11909,108
-Upper East Side (CD8),Families without Children,2015,Dollars,215655.8893,108
-Upper East Side (CD8),Families with Children,2015,Dollars,258642.35049,108
-Upper East Side (CD8),Families,2015,Dollars,226151.77455,108
 Upper East Side (CD8),All Households,2015,Dollars,114935.32825,108
-Upper East Side (CD8),Families without Children,2014,Dollars,182662.69784,108
-Upper East Side (CD8),Families,2014,Dollars,211238.14387,108
-Upper East Side (CD8),Families with Children,2014,Dollars,248616.48969,108
 Upper East Side (CD8),All Households,2014,Dollars,129440.92962,108
-Upper East Side (CD8),Families without Children,2013,Dollars,194275.7138,108
-Upper East Side (CD8),Families with Children,2013,Dollars,260962.99419,108
-Upper East Side (CD8),Families,2013,Dollars,215840.53314,108
 Upper East Side (CD8),All Households,2013,Dollars,122562.56038,108
-Upper East Side (CD8),Families with Children,2012,Dollars,241591.92203,108
-Upper East Side (CD8),Families without Children,2012,Dollars,183371.56346,108
-Upper East Side (CD8),Families,2012,Dollars,197148.41436,108
 Upper East Side (CD8),All Households,2012,Dollars,114942.10127,108
-Upper East Side (CD8),Families without Children,2011,Dollars,194590.97736,108
-Upper East Side (CD8),Families with Children,2011,Dollars,#VALUE!,108
-Upper East Side (CD8),Families,2011,Dollars,228740.862,108
 Upper East Side (CD8),All Households,2011,Dollars,124154.25908,108
-Upper East Side (CD8),Families with Children,2010,Dollars,278229.34063,108
-Upper East Side (CD8),Families without Children,2010,Dollars,176900.69213,108
-Upper East Side (CD8),Families,2010,Dollars,208268.80004,108
 Upper East Side (CD8),All Households,2010,Dollars,115867.10148,108
-Upper East Side (CD8),Families without Children,2009,Dollars,206709.72039,108
-Upper East Side (CD8),Families with Children,2009,Dollars,235443.2318,108
-Upper East Side (CD8),Families,2009,Dollars,219708.91894,108
 Upper East Side (CD8),All Households,2009,Dollars,121965.60984,108
-Upper East Side (CD8),Families without Children,2008,Dollars,204233.49037,108
-Upper East Side (CD8),Families with Children,2008,Dollars,247943.43928,108
-Upper East Side (CD8),Families,2008,Dollars,225623.57087,108
-Upper East Side (CD8),All Households,2008,Dollars,136596.99957,108
-Upper East Side (CD8),Families without Children,2007,Dollars,211460.49628,108
-Upper East Side (CD8),Families with Children,2007,Dollars,253024.86488,108
-Upper East Side (CD8),All Households,2007,Dollars,132474.02773,108
-Upper East Side (CD8),Families,2007,Dollars,229308.57361,108
-Upper East Side (CD8),Families without Children,2006,Dollars,212929.55736,108
-Upper East Side (CD8),Families with Children,2006,Dollars,264887.17716,108
-Upper East Side (CD8),Families,2006,Dollars,235838.32488,108
-Upper East Side (CD8),All Households,2006,Dollars,127466.35852,108
-Upper East Side (CD8),Families without Children,2005,Dollars,189055.58867,108
-Upper East Side (CD8),Families,2005,Dollars,215878.20246,108
-Upper East Side (CD8),Families with Children,2005,Dollars,272761.16333,108
-Upper East Side (CD8),All Households,2005,Dollars,113805.77498,108
-Central Harlem (CD10),Families without Children,2021,Dollars,65862,110
-Central Harlem (CD10),Families,2021,Dollars,57542,110
-Central Harlem (CD10),Families with Children,2021,Dollars,46868,110
 Central Harlem (CD10),All Households,2021,Dollars,45230,110
-Central Harlem (CD10),Families,2018,Dollars,59242.30791,110
-Central Harlem (CD10),Families with Children,2018,Dollars,63078.20996,110
-Central Harlem (CD10),Families without Children,2018,Dollars,50127.36717,110
 Central Harlem (CD10),All Households,2019,Dollars,57724.17853,110
-Central Harlem (CD10),Families,2019,Dollars,64737.41612,110
-Central Harlem (CD10),Families with Children,2019,Dollars,54221.76305,110
-Central Harlem (CD10),Families without Children,2019,Dollars,72533.52186,110
-Central Harlem (CD10),Families with Children,2017,Dollars,42936.49348,110
-Central Harlem (CD10),Families without Children,2017,Dollars,68474.36172,110
 Central Harlem (CD10),All Households,2018,Dollars,50961.63047,110
 Central Harlem (CD10),All Households,2017,Dollars,53404.18917,110
-Central Harlem (CD10),Families,2017,Dollars,56163.71586,110
-Central Harlem (CD10),Families without Children,2016,Dollars,62791.34367,110
-Central Harlem (CD10),Families with Children,2016,Dollars,49782.4645,110
 Central Harlem (CD10),All Households,2016,Dollars,50659.26806,110
-Central Harlem (CD10),Families,2016,Dollars,57553.82973,110
-Central Harlem (CD10),Families without Children,2015,Dollars,63715.72237,110
-Central Harlem (CD10),Families with Children,2015,Dollars,51207.26571,110
-Central Harlem (CD10),Families,2015,Dollars,56875.89633,110
 Central Harlem (CD10),All Households,2015,Dollars,51652.63407,110
-Central Harlem (CD10),Families without Children,2014,Dollars,62923.26694,110
-Central Harlem (CD10),Families with Children,2014,Dollars,45950.97962,110
-Central Harlem (CD10),Families,2014,Dollars,53736.21612,110
 Central Harlem (CD10),All Households,2014,Dollars,45563.45883,110
-Central Harlem (CD10),Families without Children,2013,Dollars,54856.67574,110
-Central Harlem (CD10),Families with Children,2013,Dollars,35249.39753,110
-Central Harlem (CD10),Families,2013,Dollars,46927.49607,110
 Central Harlem (CD10),All Households,2013,Dollars,42015.43357,110
-Central Harlem (CD10),Families without Children,2012,Dollars,54026.5486,110
-Central Harlem (CD10),Families with Children,2012,Dollars,41972.81664,110
-Central Harlem (CD10),Families,2012,Dollars,47947.60717,110
 Central Harlem (CD10),All Households,2012,Dollars,42633.5963,110
-Central Harlem (CD10),Families without Children,2011,Dollars,46582.1843,110
-Central Harlem (CD10),Families with Children,2011,Dollars,42435.72445,110
-Central Harlem (CD10),Families,2011,Dollars,45087.14599,110
 Central Harlem (CD10),All Households,2011,Dollars,41712.39494,110
-Central Harlem (CD10),Families with Children,2010,Dollars,39889.72869,110
-Central Harlem (CD10),Families without Children,2010,Dollars,49194.09588,110
-Central Harlem (CD10),Families,2010,Dollars,46900.46682,110
 Central Harlem (CD10),All Households,2010,Dollars,42881.15495,110
-Central Harlem (CD10),Families without Children,2009,Dollars,61230.27352,110
-Central Harlem (CD10),Families with Children,2009,Dollars,46907.95108,110
-Central Harlem (CD10),Families,2009,Dollars,49328.32977,110
 Central Harlem (CD10),All Households,2009,Dollars,38847.01624,110
-Central Harlem (CD10),Families without Children,2008,Dollars,51283.38126,110
-Central Harlem (CD10),Families with Children,2008,Dollars,50426.73668,110
-Central Harlem (CD10),Families,2008,Dollars,50925.10299,110
-Central Harlem (CD10),All Households,2008,Dollars,41105.30308,110
-Central Harlem (CD10),Families without Children,2007,Dollars,53678.18597,110
-Central Harlem (CD10),Families with Children,2007,Dollars,38746.18333,110
-Central Harlem (CD10),All Households,2007,Dollars,40226.117,110
-Central Harlem (CD10),Families,2007,Dollars,44620.83735,110
-Central Harlem (CD10),Families without Children,2006,Dollars,47523.40845,110
-Central Harlem (CD10),Families with Children,2006,Dollars,42050.83937,110
-Central Harlem (CD10),Families,2006,Dollars,44240.13189,110
-Central Harlem (CD10),All Households,2006,Dollars,35769.03997,110
-Central Harlem (CD10),Families without Children,2005,Dollars,48849.09468,110
-Central Harlem (CD10),Families,2005,Dollars,42596.25664,110
-Central Harlem (CD10),Families with Children,2005,Dollars,37277.90869,110
-Central Harlem (CD10),All Households,2005,Dollars,36766.68764,110
-Washington Heights,Families without Children,2021,Dollars,66268,112
-Washington Heights,Families,2021,Dollars,61566,112
-Washington Heights,Families with Children,2021,Dollars,49473,112
 Washington Heights,All Households,2021,Dollars,54717,112
-Washington Heights,Families,2018,Dollars,61259.06733,112
-Washington Heights,Families with Children,2018,Dollars,60437.62242,112
-Washington Heights,Families without Children,2018,Dollars,61934.169,112
 Washington Heights,All Households,2019,Dollars,56226.74617,112
-Washington Heights,Families,2019,Dollars,62542.23282,112
-Washington Heights,Families with Children,2019,Dollars,54473.96218,112
-Washington Heights,Families without Children,2019,Dollars,66390.37128,112
-Washington Heights,Families with Children,2017,Dollars,65968.47201,112
-Washington Heights,Families without Children,2017,Dollars,66776.19145,112
 Washington Heights,All Households,2018,Dollars,57677.39661,112
 Washington Heights,All Households,2017,Dollars,61375.79229,112
-Washington Heights,Families,2017,Dollars,66495.34022,112
-Washington Heights,Families without Children,2016,Dollars,67739.17946,112
-Washington Heights,Families with Children,2016,Dollars,42903.44111,112
-Washington Heights,Families,2016,Dollars,60724.75097,112
-Washington Heights,Families without Children,2015,Dollars,61240.95507,112
 Washington Heights,All Households,2016,Dollars,57748.05837,112
-Washington Heights,Families with Children,2015,Dollars,46524.72776,112
-Washington Heights,Families,2015,Dollars,56206.16103,112
 Washington Heights,All Households,2015,Dollars,50828.08559,112
-Washington Heights,Families without Children,2014,Dollars,54950.44792,112
-Washington Heights,Families with Children,2014,Dollars,48067.18011,112
-Washington Heights,Families,2014,Dollars,52796.05698,112
 Washington Heights,All Households,2014,Dollars,50722.53995,112
-Washington Heights,Families without Children,2013,Dollars,52787.60029,112
-Washington Heights,Families with Children,2013,Dollars,39492.25411,112
-Washington Heights,Families,2013,Dollars,47519.31083,112
 Washington Heights,All Households,2013,Dollars,42635.70097,112
-Washington Heights,Families without Children,2012,Dollars,49037.72002,112
-Washington Heights,Families with Children,2012,Dollars,39359.78604,112
-Washington Heights,Families,2012,Dollars,45445.67087,112
 Washington Heights,All Households,2012,Dollars,41964.71602,112
-Washington Heights,Families without Children,2011,Dollars,47055.35744,112
-Washington Heights,Families with Children,2011,Dollars,41580.23686,112
-Washington Heights,Families,2011,Dollars,43662.90665,112
 Washington Heights,All Households,2011,Dollars,44344.93675,112
-Washington Heights,Families with Children,2010,Dollars,45344.68246,112
-Washington Heights,Families without Children,2010,Dollars,56682.9768,112
-Washington Heights,Families,2010,Dollars,52202.51199,112
 Washington Heights,All Households,2010,Dollars,49963.49315,112
-Washington Heights,Families without Children,2009,Dollars,51789.43895,112
-Washington Heights,Families with Children,2009,Dollars,39693.7168,112
-Washington Heights,Families,2009,Dollars,47131.35166,112
 Washington Heights,All Households,2009,Dollars,45781.07411,112
-Washington Heights,Families without Children,2008,Dollars,60493.24032,112
-Washington Heights,Families with Children,2008,Dollars,40091.21441,112
-Washington Heights,Families,2008,Dollars,49592.40701,112
-Washington Heights,All Households,2008,Dollars,46959.24768,112
-Washington Heights,Families without Children,2007,Dollars,57739.30944,112
-Washington Heights,Families with Children,2007,Dollars,35571.21685,112
-Washington Heights,All Households,2007,Dollars,45667.99669,112
-Washington Heights,Families,2007,Dollars,47977.4145,112
-Washington Heights,Families without Children,2006,Dollars,54981.30693,112
-Washington Heights,Families with Children,2006,Dollars,33144.00804,112
-Washington Heights,Families,2006,Dollars,41274.71995,112
-Washington Heights,All Households,2006,Dollars,43026.94862,112
-Washington Heights,Families without Children,2005,Dollars,48680.06191,112
-Washington Heights,Families,2005,Dollars,42644.3554,112
-Washington Heights,Families with Children,2005,Dollars,37872.95899,112
-Washington Heights,All Households,2005,Dollars,43661.30048,112
